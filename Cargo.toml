@@ -1,0 +1,5 @@
+[package]
+
+name = "multidim"
+version = "0.0.1"
+authors = ["Sam Nardoni <samnardoni@gmail.com>"]
