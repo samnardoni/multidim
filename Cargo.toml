@@ -3,3 +3,7 @@
 name = "multidim"
 version = "0.0.1"
 authors = ["Sam Nardoni <samnardoni@gmail.com>"]
+description = "Multi-dimension arrays"
+repository = "https://github.com/samnardoni/multidim"
+license = "MIT"
+readme = "README.md"
